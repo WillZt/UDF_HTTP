@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  udf_http.cpp
+e:\人教处\udf_http\udf_http\udf_http.cpp(96): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+    正在创建库 E:\人教处\udf_http\x64\Debug\udf_http.lib 和对象 E:\人教处\udf_http\x64\Debug\udf_http.exp
+  udf_http.vcxproj -> E:\人教处\udf_http\x64\Debug\udf_http.dll
+  udf_http.vcxproj -> E:\人教处\udf_http\x64\Debug\udf_http.pdb (Full PDB)

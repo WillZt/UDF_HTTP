@@ -1,0 +1,6 @@
+LIBRARY         udf_http
+VERSION         1.0
+EXPORTS         
+        http_get_init
+		http_get
+		http_get_deinit

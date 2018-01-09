@@ -1,3 +1,5 @@
+*.VC.opendb
+*.opensdf
 # Prerequisites
 *.d
 
@@ -30,3 +32,4 @@
 *.exe
 *.out
 *.app
+/ipch/UDF_HTTP-511f9dfa/UDF_HTTP-2f396708.ipch
